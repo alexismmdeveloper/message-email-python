@@ -1,5 +1,7 @@
 # SEND MESSAGE WITH PYTHON
-Crear un archivo .env
+The operation of this script is to send message to email with python
+
+
 
 ```
 EMAIL_EMISOR = emailemisor@gmail.com
