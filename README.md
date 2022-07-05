@@ -1,8 +1,8 @@
 # SEND MESSAGE WITH PYTHON
-> Crear un archivo .env
+Crear un archivo .env
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+EMAIL_EMISOR = emailemisor@gmail.com
+EMAIL_PASSWORD = password
+EMAIL_RESEPTOR = emailreseptor@gmail.com
 ```
