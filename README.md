@@ -1,4 +1,4 @@
-# SEND MESSAGE WITH PYTHON
+# SEND AN EMAIL WITH PYTHON
 The operation of this script is to send message to email with python
 
 For the script to work you need to create a file called .env, in this file will be the emails and password.
